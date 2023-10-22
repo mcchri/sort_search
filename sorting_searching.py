@@ -42,7 +42,7 @@ def simple_sort(l):
 a = simple_sort(list1)
 print(a)    
 list1 = a
-def binary_sort(x,n):
+def binary_search(x,n):
     low = 0
     high = len(x) -1
     
